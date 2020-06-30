@@ -14,4 +14,4 @@ I have uploaded the zip file having the solution to the above problem statement.
 
 The heirarchy is as follows :
 Create a project -> Create a package "Email Admin App" - > Create class "Email.java" (having constructors and encapsulated methods)
-                                                       - > Create class "App.java" (containing the "main" method )
+                                                       - > Create class "App.java" (containing the "main" method ) in the same package
